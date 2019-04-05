@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { src, dest } = require('gulp');
 const GulpSSH = require('gulp-ssh');
-const config = require('../config');
+const config = require('./config');
 
 var gulpSSH = new GulpSSH({
   ignoreErrors: false,
