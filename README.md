@@ -1,4 +1,4 @@
-# MeaeureCamp Bratislava Gulp demo project
+# MeasureCamp Bratislava Gulp demo project
 
 Demo project to showcase Gulp usage for Digital Analytics data collection projects
 
