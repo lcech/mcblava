@@ -1,0 +1,32 @@
+{
+  "name": "mcblava",
+  "version": "0.0.0",
+  "description": "Demo project to showcase Gulp usage for Digital Analytics data collection projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcech/mcblava.git"
+  },
+  "keywords": [
+    "gulp",
+    "analytics"
+  ],
+  "author": "ja@lukascech.cz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lcech/mcblava/issues"
+  },
+  "homepage": "https://github.com/lcech/mcblava#readme",
+  "devDependencies": {
+    "del": "^4.1.0",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-ssh": "^0.7.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
