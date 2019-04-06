@@ -1,5 +1,5 @@
 function logHelloWorld() {
-  console.log('Hello world!!');
+  console.log('Hello MeasureCamp!!');
 }
 
 logHelloWorld();
