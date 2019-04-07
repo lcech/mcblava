@@ -1,4 +1,4 @@
-# MeasgulpureCamp Bratislava Gulp demo project
+# MeasureCamp Bratislava Gulp demo project
 
 Demo project to showcase Gulp usage for Digital Analytics data collection projects
 
@@ -18,7 +18,7 @@ npm install
 ```
 
 * Rename `gulpfile.js/config_sample.js` to `gulpfile.js/config.js`
-* Fill in your SFTP credentials
+  * Fill in your SFTP credentials
 * Run
 
 ```
